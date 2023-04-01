@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Taiane Barbosa.
 - 👀 I’m interested in Tecnology.
-- 🌱 I’m currently learning and working with Spring Boot and React Js.
+- 🌱 I’m currently learning and working with Java, Python and React Js.
 - 💞️ I’m from Salvador, Bahia, Brazil.
 
 <!---
