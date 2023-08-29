@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Taiane Barbosa.
 - 👀 I’m interested in Tecnology.
-- 🌱 I’m currently learning and working with Python and Java.
+- 🌱 I’m currently learning and working with Python, Java and JavaScript.
 - 💞️ I’m from Salvador, Bahia, Brazil.
 
 <!---
